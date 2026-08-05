@@ -30,3 +30,5 @@
 {"read_at_utc":"2026-08-05T14:38:16.740Z","london_date":"2026-08-05","london_hour":15,"campaign":"personal","sa_decimal":-0.3915,"sa_name":"personal rolling"}
 {"read_at_utc":"2026-08-05T15:38:11.587Z","london_date":"2026-08-05","london_hour":16,"campaign":"competitor","sa_decimal":-0.32,"sa_name":"Comp Rolling"}
 {"read_at_utc":"2026-08-05T15:38:11.587Z","london_date":"2026-08-05","london_hour":16,"campaign":"personal","sa_decimal":-0.3915,"sa_name":"personal rolling"}
+{"read_at_utc":"2026-08-05T16:38:13.951Z","london_date":"2026-08-05","london_hour":17,"campaign":"competitor","sa_decimal":-0.32,"sa_name":"Comp Rolling"}
+{"read_at_utc":"2026-08-05T16:38:13.951Z","london_date":"2026-08-05","london_hour":17,"campaign":"personal","sa_decimal":-0.34,"sa_name":"personal rolling"}
