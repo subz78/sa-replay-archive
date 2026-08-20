@@ -48,3 +48,6 @@
 {"read_at_utc":"2026-08-20T22:38:10.772Z","london_date":"2026-08-20","london_hour":23,"campaign":"competitor","sa_decimal":-0.25,"sa_name":"Comp Rolling"}
 {"read_at_utc":"2026-08-20T22:38:10.772Z","london_date":"2026-08-20","london_hour":23,"campaign":"personal","sa_decimal":-0.46,"sa_name":"personal rolling"}
 {"read_at_utc":"2026-08-20T22:38:10.772Z","london_date":"2026-08-20","london_hour":23,"campaign":"payday_alternative","sa_decimal":-0.75,"sa_name":"[AUTO] payday_alternative - 2026-09-03 19:00"}
+{"read_at_utc":"2026-08-20T23:08:08.506Z","london_date":"2026-08-21","london_hour":0,"campaign":"competitor","sa_decimal":-0.25,"sa_name":"Comp Rolling"}
+{"read_at_utc":"2026-08-20T23:08:08.506Z","london_date":"2026-08-21","london_hour":0,"campaign":"personal","sa_decimal":-0.46,"sa_name":"personal rolling"}
+{"read_at_utc":"2026-08-20T23:08:08.506Z","london_date":"2026-08-21","london_hour":0,"campaign":"payday_alternative","sa_decimal":-0.75,"sa_name":"[AUTO] payday_alternative - 2026-09-03 19:00"}
