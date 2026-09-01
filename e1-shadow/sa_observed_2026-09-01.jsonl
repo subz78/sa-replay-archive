@@ -55,3 +55,6 @@
 {"read_at_utc":"2026-09-01T18:38:09.714Z","london_date":"2026-09-01","london_hour":19,"campaign":"competitor","sa_decimal":-0.5,"sa_name":"[AUTO-RENEW] competitor - 2026-09-04 07:00"}
 {"read_at_utc":"2026-09-01T18:38:09.714Z","london_date":"2026-09-01","london_hour":19,"campaign":"personal","sa_decimal":-0.4,"sa_name":"[AUTO-RENEW] personal - 2026-09-04 07:00"}
 {"read_at_utc":"2026-09-01T18:38:09.714Z","london_date":"2026-09-01","london_hour":19,"campaign":"payday_alternative","sa_decimal":-0.75,"sa_name":"[AUTO] payday_alternative - 2026-09-03 19:00"}
+{"read_at_utc":"2026-09-01T19:38:11.318Z","london_date":"2026-09-01","london_hour":20,"campaign":"competitor","sa_decimal":-0.5,"sa_name":"[AUTO-RENEW] competitor - 2026-09-04 07:00"}
+{"read_at_utc":"2026-09-01T19:38:11.318Z","london_date":"2026-09-01","london_hour":20,"campaign":"personal","sa_decimal":-0.4,"sa_name":"[AUTO-RENEW] personal - 2026-09-04 07:00"}
+{"read_at_utc":"2026-09-01T19:38:11.318Z","london_date":"2026-09-01","london_hour":20,"campaign":"payday_alternative","sa_decimal":-0.75,"sa_name":"[AUTO] payday_alternative - 2026-09-03 19:00"}
