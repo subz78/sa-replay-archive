@@ -14,3 +14,5 @@
 {"read_at_utc":"2026-09-21T06:38:07.558Z","london_date":"2026-09-21","london_hour":7,"campaign":"personal","sa_decimal":-0.25,"sa_name":"[AUTO-RENEW] personal - 2026-10-02 07:00"}
 {"read_at_utc":"2026-09-21T07:38:08.132Z","london_date":"2026-09-21","london_hour":8,"campaign":"competitor","sa_decimal":-0.45,"sa_name":"[AUTO-RENEW] competitor - 2026-10-02 07:00"}
 {"read_at_utc":"2026-09-21T07:38:08.132Z","london_date":"2026-09-21","london_hour":8,"campaign":"personal","sa_decimal":-0.25,"sa_name":"[AUTO-RENEW] personal - 2026-10-02 07:00"}
+{"read_at_utc":"2026-09-21T08:38:08.373Z","london_date":"2026-09-21","london_hour":9,"campaign":"competitor","sa_decimal":-0.45,"sa_name":"[AUTO-RENEW] competitor - 2026-10-02 07:00"}
+{"read_at_utc":"2026-09-21T08:38:08.373Z","london_date":"2026-09-21","london_hour":9,"campaign":"personal","sa_decimal":-0.25,"sa_name":"[AUTO-RENEW] personal - 2026-10-02 07:00"}
