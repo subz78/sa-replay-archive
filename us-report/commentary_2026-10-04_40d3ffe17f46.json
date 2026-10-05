@@ -1,0 +1,30 @@
+{
+  "day": "2026-10-04",
+  "headline": "Saturday carried the weekend; Sunday's $493 was the thinnest in eight weeks",
+  "commentary": "### The weekend\n- **$7,418 NP over the two days**, under last weekend but well ahead of normal.\n  - NP: $7,418 v $9,287 last weekend\n  - 4-weekend average NP: $5,081\n- Margin held near 20% because we bought a lot less traffic, cheaper.\n  - Cost: $29,836 v $34,768\n  - Search CPC: $11.52 v $13.41\n- Saturday did all the work. Sunday more or less washed its face.\n  - Sun NP: $493 at 3.5% NM\n  - 8-Sunday average NP: $3,555\n### Friday\n- Fri 02/10 came in just shy of the previous Friday, on less spend.\n  - NP: $8,850 v $9,616 on 25/09\n  - Cost: $38,389 v $40,574\n- Cheaper clicks, more of them, and lead value gave some back.\n  - Search clicks: 2,736 v 2,411\n  - Search EPL: $29.86 v $34.06\n### What drove it\n- Sunday was a lead value day, not a traffic day.\n  - EPL: $11.07 v $14.53 last Sun\n  - 8-Sunday EPL range: $11.06-$17.63\n- Search clicks held up but turned into fewer leads than last week.\n  - Search leads: 440 v 550\n  - Clicks: 1,030 v 1,115\n- The heavy evening hours, where the clicks sit, paid badly all night.\n  - 19:00 EPL: $15.21 on 99 clicks\n  - 21:00 EPL: $42.87 on 84 clicks\n- Test tree ran light on Sunday; the direct side was fine.\n  - Test tree EPL: $21.02 v $24.25 last 7\n  - Direct (Inc ZP) EPL: $26.33\n### Tests\n| Test | Set-up | Spend 04/10 | Spend wk ago | Change |\n|---|---|---|---|---|\n| competitor | tROAS, no SA | $642 | $1,110 | — |\n| personal | tROAS, no SA | $303 | $790 | — |\n| speed | high tROAS, stepping down | $131 | $670 | — |\n| scavengers | cheap-click pickup | $536 | — | — |\n- Speed stays small on purpose while the target comes down a rung at a time.\n  - Speed clicks: 9 v 43 last Sun\n- The scavengers ran through the weekend and bought clicks at a fraction of search.\n  - competitor_scavenger CPC: $2.62 v $13.96 on competitor",
+  "watch": [
+    "Sunday EPL at $11.07 sat on the floor of the eight-week range, so we're tracking whether next weekend comes back toward $14.66.",
+    "Search EPL month-to-date is $28.32 against $24.99 on Sunday; a second weak weekday would make it more than lumpiness.",
+    "cash_advance is taking more spend at $16.18 CPC against $14.47 a week ago, and we're following what that buys."
+  ],
+  "packet_sha": "40d3ffe17f46",
+  "model": "claude-opus-5",
+  "version": "us-report-narrative-v0.6.0",
+  "generated_at_utc": "2026-10-05T09:30:18.415Z",
+  "usage": {
+    "input_tokens": 9544,
+    "cache_creation_input_tokens": 2246,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 2246,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 4292,
+    "output_tokens_details": {
+      "thinking_tokens": 3205
+    },
+    "service_tier": "standard",
+    "inference_geo": "global"
+  },
+  "source": "app"
+}
