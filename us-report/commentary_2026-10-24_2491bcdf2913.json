@@ -1,0 +1,31 @@
+{
+  "day": "2026-10-24",
+  "headline": "Clicks up 17%, CPC up 8% — Saturday profit all but gone",
+  "commentary": "### The day\n- **$709 NP at 1.9% margin** — the leads were fine, the clicks were dear.\n  - NP: $709 v $4,397 last Sat\n  - Eight-Saturday average NP: $4,330\n- Cost was the problem: nearly 40% above a normal Saturday, volume and value decent.\n  - Cost: $37,387 v $26,816 eight-Sat average\n  - EPL: $18.62 v $16.45 average\n  - Processed: 2,046 v 1,893 average\n- October is still well clear of September, on a quarter less spend.\n  - MTD NP: $132,843 v $113,300 last month\n  - MTD NM: 14.4% v 9.8%\n  - MTD cost: $792,724 v $1,048,304\n### What drove it\n- Search bought 17% more clicks and paid $12.52 a go.\n  - Search clicks: 2,926 v 2,503\n  - Search CPC: $12.52 v $11.57\n  - Search cost: $36,628 v $28,961\n- Lead rate slipped too, so cost per lead ran well above value.\n  - Search CPL: $25.17 v $20.67\n  - Search EPL: $24.19 v $22.25\n  - Search NP: -$1,426 v +$2,205\n- The extra money went into cash_advance, bad_credit and amount, all up hard.\n  - cash_advance: $3,206 v $1,463\n  - bad_credit: $2,340 v $1,015\n  - amount: $8,221 v $6,178\n- **albert.com leaning in across the auction** — we held share and paid for it.\n  - albert account IS: 43.9% v 35.2%\n  - Our IS on amount: 26.4% v 35.1%\n  - Abs-top at 16:00: 12.5% v 8.0%\n### Tests\n| Test | Set-up | Spend 24/10 | Spend wk ago | Change |\n|---|---|---|---|---|\n| Off SAs onto tROAS | personal + competitor | $1,625 | $1,387 | — |\n| speed walk-down | high target, stepping down | $1,217 | $505 | — |\n| Scavenger pair | tROAS plus tCPA copy | $1,530 | $1,668 | — |\n- speed more than doubled its spend, at the dearest clicks on the account.\n  - speed CPC: $19.63 v $17.43\n  - speed IS: 10.3% v 10.0%\n- Scavengers were live on a Saturday again, though the plan has them dark.\n  - Scavenger spend: $1,530 v $1,668 last Sat",
+  "watch": [
+    "Search CPC is the number we're tracking — $12.52 on the day against $12.07 month-to-date.",
+    "albert.com's share grab, up 8.7 points at account level and gaining in amount, speed and bad_credit.",
+    "Weekend scavenger spend, $1,530 on a day the campaigns are meant to be scheduled off."
+  ],
+  "packet_sha": "2491bcdf2913",
+  "model": "claude-opus-5",
+  "version": "us-report-narrative-v0.6.0",
+  "generated_at_utc": "2026-10-25T10:21:30.066Z",
+  "usage": {
+    "input_tokens": 15768,
+    "cache_creation_input_tokens": 2246,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 2246,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 6212,
+    "output_tokens_details": {
+      "thinking_tokens": 5160
+    },
+    "service_tier": "standard",
+    "inference_geo": "global",
+    "speed": "standard"
+  },
+  "source": "app"
+}
