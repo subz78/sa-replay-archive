@@ -1,0 +1,31 @@
+{
+  "day": "2026-10-26",
+  "headline": "NP $7,410 on 20% fewer leads — Bing and the top-up did the lifting",
+  "commentary": "### The day\n- **$7,410 NP at 17.6% NM**, ahead of last Monday on less spend.\n  - NP: $7,410 v $6,402 last Monday\n  - NM: 17.6% v 14.0%\n  - Eight-Monday average NP: $5,261\n- Volume was thin and so was cost; margin did the work.\n  - Leads: 2,385 v 3,022 Monday average\n  - Cost: $34,657 v $43,118 average Monday\n  - EPL: $17.64 v $15.77 eight-Monday mean\n- Month still well ahead of September, and on far less spend.\n  - MTD NP: $142,781 v $129,965\n  - MTD NM: 14.4% v 10.5%\n  - MTD cost: $848,434 v $1,107,776\n### What drove it\n- Search did less with less: fewer leads, softer EPL, lower cost.\n  - Search leads: 1,031 v 1,112 last Monday\n  - Search EPL: $26.06 v $31.36\n  - Search NP: $1,514 v $4,639\n- Bing and the free lines covered that gap and then some.\n  - Bing NP: $1,753 v $354\n  - Bing EPL: $14.66 v $11.51\n  - Remarketing plus no-source: $1,769 v $1,059\n- The **RateSpecial top-up** came in heavy, which is most of the swing.\n  - Top-up: $2,085 v $129 last Monday\n  - Day-on-day NP gain: $1,007\n- CPC came down across Search and we bought less payday_alternative.\n  - Search CPC: $11.80 v $13.22\n  - payday_alternative spend: $7,719 v $11,050\n  - amount impression share: 24.3% v 36.4%\n### Tests\n| Test | Set-up | Spend 26/10 | Spend wk ago | Change |\n|---|---|---|---|---|\n| competitor | ROAS target, no SA | $938 | $1,153 | — |\n| personal | ROAS target, no SA | $177 | $270 | — |\n| speed | target stepping down | $484 | $729 | — |\n| competitor_scavenger | cheap-click pair | $839 | $596 | — |\n| generic_scavenger | cheap-click pair | $194 | $241 | — |\n- Scavengers switch back on after the weekend pause, hunting the cheap clicks.\n  - competitor_scavenger CPC: $3.40 v $11.80 Search\n- speed stays small by design while its target walks back down.\n  - speed clicks: 30 v 41 last Monday",
+  "watch": [
+    "Search EPL at $26.06 sits under the $28.58 month-to-date figure, so we're tracking where the week settles.",
+    "The 12-point drop in amount's impression share, against spend that actually went up — we're watching whether clicks hold.",
+    "Whether the $2,085 RateSpecial top-up is a one-off catch-up or closer to a new run rate."
+  ],
+  "packet_sha": "080462257230",
+  "model": "claude-opus-5",
+  "version": "us-report-narrative-v0.6.0",
+  "generated_at_utc": "2026-10-27T10:21:21.444Z",
+  "usage": {
+    "input_tokens": 16010,
+    "cache_creation_input_tokens": 2246,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 2246,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 5589,
+    "output_tokens_details": {
+      "thinking_tokens": 4527
+    },
+    "service_tier": "standard",
+    "inference_geo": "global",
+    "speed": "standard"
+  },
+  "source": "app"
+}
