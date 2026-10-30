@@ -1,0 +1,31 @@
+{
+  "day": "2026-10-29",
+  "headline": "Thursday back to normal: more Search leads, each one worth less",
+  "commentary": "### The day\n- $4,906 of profit at 12.7% margin, order restored after Wednesday's hole.\n  - NP: $4,906 v $5,833 last Thu\n  - NM: 12.7% v 14.0%\n- An average Thursday on profit, bought with a fifth less spend.\n  - Eight-Thursday mean NP: $5,781\n  - Cost: $33,751 v $41,592 average Thursday\n- Month to date still miles ahead of September on far less money.\n  - MTD NP: $155,964 v $138,919\n  - MTD NM: 14.4% v 10.2%\n### What drove it\n- Search is the whole story: **more leads, each worth less**.\n  - Search EPL: $23.56 v $28.92 last Thu\n  - Search leads: 1,213 v 1,115\n- Clicks were cheaper and converted harder, so this isn't a traffic problem.\n  - Search CPC: $11.22 v $11.66\n  - Click-to-lead: 48% v 43%\n- Payday_alternative went quiet while **uprova and albert bought the auction up**.\n  - Payday_alternative spend: $6,180 v $9,735\n  - Its impression share: 17.6% v 23.4%\n- Bing paid its way for once; Direct Lenders tree was the soft spot.\n  - Bing EPL: $12.12 v $8.27 last Thu\n  - Direct Lenders EPL: $12.99 v $17.45 last seven days\n### Tests\n| Test | Set-up | Spend 29/10 | Spend wk ago | Change |\n|---|---|---|---|---|\n| Competitor off SAs | tROAS only, uncapped | $533 | $861 | — |\n| Speed walk-down | High tROAS, stepping down | $508 | $729 | — |\n| Scavenger pair | tROAS v tCPA copy | $805 | $1,116 | — |\n- Speed sits on a deliberately high target being walked down, so spend stays small.\n- Scavengers took 240 clicks around $3.35 — still the cheapest traffic we buy.",
+  "watch": [
+    "Search EPL at $23.56 against $28.25 month to date — whether the next few days pull it back or it settles lower.",
+    "Account impression share at 10.0% with uprova and albert both up roughly 6 points on us.",
+    "Bing CPC at $5.10 against $3.89 last Thursday, and whether its $12.12 EPL holds at that price."
+  ],
+  "packet_sha": "479eabff9c5c",
+  "model": "claude-opus-5",
+  "version": "us-report-narrative-v0.6.0",
+  "generated_at_utc": "2026-10-30T10:21:24.876Z",
+  "usage": {
+    "input_tokens": 16025,
+    "cache_creation_input_tokens": 2246,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 2246,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 5302,
+    "output_tokens_details": {
+      "thinking_tokens": 4423
+    },
+    "service_tier": "standard",
+    "inference_geo": "global",
+    "speed": "standard"
+  },
+  "source": "app"
+}
