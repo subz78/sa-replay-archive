@@ -1,0 +1,31 @@
+{
+  "day": "2026-10-31",
+  "headline": "First red day in a fortnight: thin Saturday, cheap leads, $1,299 loss",
+  "commentary": "### The day\n- We lost money: **−$1,299**, the worst of the last eight Saturdays.\n  - NP: −$1,299 v $721 last Sat\n  - Eight-Sat range: −$179 to $8,386\n- Spend came down hard; **lead value came down harder**.\n  - Cost: $21,870 v $37,375 last Sat\n  - EPL: $12.75, under the eight-Sat low of $13.17\n- The month's still fine: October running ahead of September on profit.\n  - MTD NP: $158,372 v $141,489\n  - MTD NM: 13.7% v 10.0%\n### What drove it\n- Search spend nearly halved and still managed to lose money.\n  - Search cost: $20,976 v $36,615\n  - Search NP: −$2,458 v −$1,414 last Sat\n  - Search EPL: $18.78 v $26.24 last Sat\n- Clicks, not clicking prices: CPC fell, volume fell further.\n  - Clicks: 2,054 v 2,926 last Sat\n  - CPC: $10.21 v $12.51\n  - 16:00 abs-top: 7.9% v 12.5%\n- uprova is leaning on the auction, up almost everywhere against us.\n  - uprova account IS: 43.1% v 34.7%\n  - Our IS: 10.1% v 11.0%\n- Every tree paid less, so it isn't one bad buyer.\n  - Direct (Inc ZP) EPL: $17.42 v $19.65 last 7\n  - Test tree EPL: $16.16 v $18.95\n- The free leads that rescued last Saturday didn't turn up.\n  - No-source commission: $282 v $966\n  - Remarketing leads: 88 v 136\n### Tests\n| Test | Set-up | Spend 31/10 | Spend wk ago | Change |\n|---|---|---|---|---|\n| Off SAs onto ROAS | personal + competitor | $486 | $1,625 | — |\n| speed walk-down | high target, stepping down | $606 | $1,217 | — |\n| Scavenger pair | cheap clicks, weekends off | $1,060 | $1,303 | — |\n- The scavengers are meant to be dark at weekends. They weren't.\n  - Scavenger spend: $1,060 v $1,303 last Sat\n- personal and competitor shrank with the rest of the account.\n  - Combined spend: $486 v $1,625",
+  "watch": [
+    "Search EPL over the next few days against the $27.68 month-to-date level — one soft Saturday at $18.78 is lumpiness, three in a row isn't.",
+    "uprova's impression share, up 8 points account-wide and 17 on payday_alternative, and whether our abs-top share stays near half of last Saturday's.",
+    "Weekend scavenger spend, which ran at $1,060 on a day the pair is supposed to be scheduled off."
+  ],
+  "packet_sha": "7d005d85fcf1",
+  "model": "claude-opus-5",
+  "version": "us-report-narrative-v0.6.0",
+  "generated_at_utc": "2026-11-01T10:21:28.713Z",
+  "usage": {
+    "input_tokens": 15984,
+    "cache_creation_input_tokens": 2246,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 2246,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 5928,
+    "output_tokens_details": {
+      "thinking_tokens": 4886
+    },
+    "service_tier": "standard",
+    "inference_geo": "global",
+    "speed": "standard"
+  },
+  "source": "app"
+}
