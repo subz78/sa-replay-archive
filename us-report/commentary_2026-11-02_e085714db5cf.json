@@ -1,0 +1,31 @@
+{
+  "day": "2026-11-02",
+  "headline": "Best Monday in two months: $12,055 NP on cheap extra clicks",
+  "commentary": "### The day\n- **$12,055 NP**, roughly double last Monday, and the margin came with it.\n  - NP: $12,055 v $5,672 last Mon\n  - NM: 22.1% v 14.1%\n- Clears the eight-week Monday high by a street, and tops the fortnight.\n  - NP v eight-week Monday mean: $12,055 v $4,141\n  - Best previous Monday: $6,402\n- Two days into November and we're already ahead of October's pace.\n  - MTD NP: $14,789 v $13,016 last month\n  - MTD margin: 20.6% v 13.4%\n### What drove it\n- Volume and lead value moved together, which doesn't happen often.\n  - Search clicks: 3,002 v 2,428\n  - Search EPL: $29.22 v $26.06\n- The extra traffic cost us nothing more per click, so Search margin jumped.\n  - Search CPC: $11.83 v $11.79\n  - Search NP: $7,915 v $1,516\n- generic and bad_credit took most of the extra spend; Bing added on top.\n  - generic: $6,688 v $4,841\n  - bad_credit: $4,849 v $2,411\n  - Bing NP: $2,259 v $1,753\n- **Every tree beat its seven-day rate**, so it isn't one fat lead.\n  - Direct (Inc ZP) EPL: $25.16 v $20.07 last7\n  - Direct Lenders EPL: $23.93 v $18.37\n  - Blended EPL: $18.99 v $15.59 eight-week mean\n### Tests\n| Test | Set-up | Spend 02/11 | Spend wk ago | Change |\n|---|---|---|---|---|\n| competitor off SAs | tROAS only, uncapped | $1,096 | $938 | — |\n| personal off SAs | tROAS only, uncapped | $200 | $177 | — |\n| speed target walk-down | high target, stepping down | $1,243 | $484 | — |\n| scavenger pair | tROAS v tCPA, weekends off | $1,452 | $1,150 | — |\n- speed spent three times last Monday's, off a very small base.\n  - speed clicks: 81 v 30\n  - speed CPC: $15.35 v $16.14\n- Scavengers hoovered up more cheap clicks, still loose change in the scheme of it.\n  - Scavenger clicks: 387 v 323\n  - Scavenger CPC: around $3.75 blended",
+  "watch": [
+    "Search EPL at $29.22 sat above the eight-week Monday range, so we're tracking whether it holds nearer $26 over the week.",
+    "bad_credit spend doubled to $4,849 while netcredit and uprova added 6.7 and 13.9 points of share, so we're on its EPL.",
+    "PMAX fell to $7.67 EPL from $13.89 last Monday on lower spend, and we're following whether that recovers."
+  ],
+  "packet_sha": "e085714db5cf",
+  "model": "claude-opus-5",
+  "version": "us-report-narrative-v0.6.0",
+  "generated_at_utc": "2026-11-03T10:21:18.980Z",
+  "usage": {
+    "input_tokens": 15894,
+    "cache_creation_input_tokens": 2246,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 2246,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 5114,
+    "output_tokens_details": {
+      "thinking_tokens": 4067
+    },
+    "service_tier": "standard",
+    "inference_geo": "global",
+    "speed": "standard"
+  },
+  "source": "app"
+}
