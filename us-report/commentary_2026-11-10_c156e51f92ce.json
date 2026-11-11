@@ -1,0 +1,31 @@
+{
+  "day": "2026-11-10",
+  "headline": "Volume up, value down: $9k more spend bought the same revenue as last Tuesday",
+  "commentary": "### The day\n- **$3,179 NP at 7.5% margin**, and the gap to last Tuesday is all cost.\n  - NP: $3,179 v $11,912 last Tue\n  - Cost: $39,232 v $30,081\n  - True commission: $42,411 v $41,993\n- Cost sat on the eight-Tuesday average; last week's $30k day was the cheap outlier.\n  - Eight-Tuesday mean cost: $39,457\n  - Eight-Tuesday mean NP: $5,503\n  - Blended EPL: $14.00 v $15.19 eight-week low\n- November is still ahead of October at the same point.\n  - MTD NP: $68,013 v $58,892\n  - MTD NM: 16.2% v 15.2%\n\n### What drove it\n- Search paid 20% more for clicks and got the same commission back.\n  - Clicks: 2,769 v 2,296\n  - Search CPC: $11.45 v $10.43\n  - Search commission: $30,042 v $29,541\n- Search lead value landed on the month's run rate; last Tuesday was the high one.\n  - Search EPL: $25.44 v $25.88 MTD\n  - Last Tue: $31.23\n- **CPC inflation in the pricey campaigns**, and competitor spend tripled off a small base.\n  - payday_alternative CPC: $16.03 v $13.95\n  - cash_advance CPC: $15.65 v $12.47\n  - competitor cost: $2,341 v $703\n- Every tree came in softer, so it isn't one buyer pulling back.\n  - Direct (Inc ZP) EPL: $18.40 v $20.23 last7\n  - Test tree EPL: $14.78 v $18.71\n\n### Tests\n| Test | Set-up | Spend 10/11 | Spend wk ago | Change |\n|---|---|---|---|---|\n| None logged | — | — | — | — |\n- Nothing in the notes this cycle, so no test reads today.\n- No logged change behind speed's jump in spend; the scavengers were flat.\n  - speed cost: $1,924 v $810\n  - amount_scavenger cost: $482 v $491",
+  "watch": [
+    "Search CPC at $11.45 against the $10.91 month average, and whether it settles back.",
+    "Competitor and speed at their new spend levels, and whether the extra clicks earn out.",
+    "Bing, which came in at minus $43 NP on an EPL of $11.52 against $12.80 MTD."
+  ],
+  "packet_sha": "c156e51f92ce",
+  "model": "claude-opus-5",
+  "version": "us-report-narrative-v0.6.0",
+  "generated_at_utc": "2026-11-11T10:21:33.585Z",
+  "usage": {
+    "input_tokens": 15461,
+    "cache_creation_input_tokens": 2246,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 2246,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 6275,
+    "output_tokens_details": {
+      "thinking_tokens": 5373
+    },
+    "service_tier": "standard",
+    "inference_geo": "global",
+    "speed": "standard"
+  },
+  "source": "app"
+}
