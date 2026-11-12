@@ -1,0 +1,31 @@
+{
+  "day": "2026-11-11",
+  "headline": "PMAX and Demand Gen trebled spend on cheap leads, ate the margin",
+  "commentary": "### The day\n- **$3,610 NP at 11.5%**: 21% more leads than last Wednesday, no more money.\n  - NP: $3,610 v $4,304 last Wed\n  - True commission: $31,324 v $30,302\n  - Processed: 2,645 v 2,178\n- Under the eight-Wednesday average, but on roughly $10k less spend.\n  - NP: $3,610 v $4,627 eight-Wed average\n  - Cost: $27,714 v $37,394 eight-Wed average\n- Blended EPL is the fortnight's low; November still ahead of October.\n  - EPL: $11.84 v $14.97 eight-Wed average\n  - MTD NP: $71,620 v $60,503 last month\n  - MTD margin: 15.9% v 15.1%\n### What drove it\n- PMAX and Demand Gen trebled spend and both lost money.\n  - PMAX cost: $2,001 v $685 last Wed\n  - Demand Gen cost: $935 v $237\n  - Combined NP: -$771 v +$413\n- Between them they added 715 leads at about $3 each.\n  - PMAX EPL: $3.60 v $7.53\n  - Demand Gen EPL: $1.72 v $2.00\n- **Search held**: leads flat, clicks dearer, lead value better.\n  - Search EPL: $25.40 v $22.62 last Wed\n  - CPC: $10.99 v $10.32\n  - Leads: 810 v 812\n- Bing did the quiet work on less spend.\n  - Bing NP: $420 v $4 last Wed\n  - Bing cost: $3,945 v $4,557\n### Tests\n| Test | Set-up | Spend 11/11 | Spend wk ago | Change |\n|---|---|---|---|---|\n| None logged | — | — | — | — |\n- Speed and the scavengers moved on spend with nothing recorded behind it.\n  - speed: $1,003 v $615 last Wed\n  - competitor_scavenger: $445 v $602",
+  "watch": [
+    "Whether PMAX lead value climbs back toward $7.50 at this higher spend, or settles near $3.60.",
+    "Search CPC at $10.99 with abs-top share up through the afternoon — and whether $25 Search EPL stays put.",
+    "Direct Lenders tree at $11.57 against $21.05 over the last seven days, across the next few days of volume."
+  ],
+  "packet_sha": "8ecaa09d99d9",
+  "model": "claude-opus-5",
+  "version": "us-report-narrative-v0.6.0",
+  "generated_at_utc": "2026-11-12T10:52:43.748Z",
+  "usage": {
+    "input_tokens": 10334,
+    "cache_creation_input_tokens": 2246,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 2246,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 5076,
+    "output_tokens_details": {
+      "thinking_tokens": 4201
+    },
+    "service_tier": "standard",
+    "inference_geo": "global",
+    "speed": "standard"
+  },
+  "source": "app"
+}
