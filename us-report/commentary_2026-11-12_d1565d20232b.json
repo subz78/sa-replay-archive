@@ -1,0 +1,31 @@
+{
+  "day": "2026-11-12",
+  "headline": "Search volume halved overnight; margin pushed to 19.5% and beat the Thursday average",
+  "commentary": "### The day\n- We bought half as much traffic and still cleared **$6,517 at 19.5%**.\n  - NP: $6,517 v $8,999 last Thursday\n  - Margin: 19.5% v 16.9%\n  - Cost: $26,941 v $44,211\n- Better than a typical Thursday on profit, well under one on spend.\n  - NP: $6,517 v $5,815 eight-Thursday average\n  - Cost: $26,941 v $38,705 average\n  - Blended EPL: $13.04 v $15.55 average\n- November is running ahead of October on both lines.\n  - MTD NP: $78,138 v $62,827 last month\n  - MTD margin: 16.1% v 14.6%\n### What drove it\n- The search traffic simply wasn't there — impressions halved and clicks went with them.\n  - Impressions: 16,641 v 34,771 last Thursday\n  - Clicks: 1,691 v 3,694\n  - Search cost: $19,092 v $39,903\n- What we did buy was worth more, and cost a shade more.\n  - Search EPL: $25.06 v $21.97 last Thursday\n  - CPC: $11.29 v $10.80\n  - Search NP: $5,121 v $4,744\n- **PMAX and Demand Gen bought cheap volume again** and both lost money.\n  - PMAX EPL: $3.32 v $12.62 last Thursday\n  - PMAX clicks: 702 v 196\n  - Combined NP: minus $458\n- Every tree came in under its seven-day mark, so nothing isolated.\n  - Direct (Inc ZP): $17.33 v $19.60 last seven days\n  - Test tree: $14.30 v $17.41\n  - Direct Lenders: $18.62 v $20.02\n### Tests\n| Test | Set-up | Spend 12/11 | Spend wk ago | Change |\n|---|---|---|---|---|\n| — | No live tests logged | — | — | — |\n- Nothing on the test log this week, so no logged change explains it.",
+  "watch": [
+    "Search supply: 16,641 impressions is half last Thursday's, and no impression share came through for the day to tell us whether that's us or the auction.",
+    "PMAX has now spent two days buying leads at a few dollars each; $3.32 EPL against a $2.48 CPC doesn't pay for itself.",
+    "Ping tree EPLs all sat under their seven-day levels — Direct (Inc ZP) back near $19.60 would make this a one-day dip."
+  ],
+  "packet_sha": "d1565d20232b",
+  "model": "claude-opus-5",
+  "version": "us-report-narrative-v0.6.0",
+  "generated_at_utc": "2026-11-13T10:21:44.801Z",
+  "usage": {
+    "input_tokens": 10299,
+    "cache_creation_input_tokens": 2246,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 2246,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 6288,
+    "output_tokens_details": {
+      "thinking_tokens": 5377
+    },
+    "service_tier": "standard",
+    "inference_geo": "global",
+    "speed": "standard"
+  },
+  "source": "app"
+}
