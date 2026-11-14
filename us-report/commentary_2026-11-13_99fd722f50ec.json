@@ -1,0 +1,31 @@
+{
+  "day": "2026-11-13",
+  "headline": "Spent $25k less, kept the profit: best Friday NP in eight weeks",
+  "commentary": "### The day\n- Best day of the month: **$14,184 NP**, margin nearly double last Friday's.\n  - NP: $14,184 v $10,193 last Fri\n  - NM: 27.5% v 14.0%\n  - Cost: $37,323 v $62,453\n- Top of the eight-Friday range on profit, bottom end on spend.\n  - Eight-Friday NP average: $8,136\n  - Previous best Friday: $10,193\n  - Eight-Friday cost average: $43,559\n- November keeps pulling away from October across the same days.\n  - MTD NP: $92,320 v $68,422\n  - MTD margin: 17.2% v 14.5%\n### What drove it\n- Revenue fell under a third, spend fell forty percent. That's the day.\n  - True commission: $51,507 v $72,646\n  - Search cost: $28,984 v $55,359\n- Search bought **half the clicks**, paid more for them, sold them better.\n  - Search CPC: $12.00 v $10.96\n  - Search EPL: $30.85 v $24.95\n  - Impression share: 10.0% v 12.5%\n- Every ping tree beat its seven-day rate, so the value was broad.\n  - Direct (Inc ZP) EPL: $23.62 v $19.57 last7\n  - Direct Lenders: $27.49 v $20.34\n  - Test tree: $19.16 v $17.53\n- Blended EPL flat though, and PMAX and Demand Gen both turned small profits.\n  - Blended EPL: $17.87 v $17.73 last Fri\n  - Eight-Friday EPL range: $15.32–$17.97\n  - PMAX NP: $430 v $147\n### Tests\n| Test | Set-up | Spend 13/11 | Spend wk ago | Change |\n|---|---|---|---|---|\n| Speed | Bids walked down | $2,654 | $2,414 | — |\n| Scavengers | Low-CPC catch-all | $896 | $2,387 | — |\n- Speed held its spend while the rest of Search halved.\n  - Speed CPC: $15.17 v $15.09\n  - Speed cost: $2,654 v $2,414\n- Scavengers barely showed up — impression share gone in both big ones.\n  - Amount scavenger: under 0.1% v 16.7%\n  - Payday alternative scavenger: under 0.1% v 21.0%",
+  "watch": [
+    "fastloanadvance.com is new money in our auctions — 31% impression share on speed terms, from under 10% a week ago.",
+    "Bing ran a small loss on the day, $4,605 spend against $4,441 commission, against a 13.3% margin month to date.",
+    "Two light buying days in a row on Search — whether 10% impression share holds or clicks come back towards the 5,000 we had last Friday."
+  ],
+  "packet_sha": "99fd722f50ec",
+  "model": "claude-opus-5",
+  "version": "us-report-narrative-v0.6.0",
+  "generated_at_utc": "2026-11-14T10:21:35.678Z",
+  "usage": {
+    "input_tokens": 15060,
+    "cache_creation_input_tokens": 2246,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 2246,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 6252,
+    "output_tokens_details": {
+      "thinking_tokens": 5242
+    },
+    "service_tier": "standard",
+    "inference_geo": "global",
+    "speed": "standard"
+  },
+  "source": "app"
+}
